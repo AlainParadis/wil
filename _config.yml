@@ -1,0 +1,15 @@
+port: 4002
+baseurl: ""
+description: "This is the Fieldwork & Professional Practice web site."
+url: /fieldwork
+twitter_username: alainparadis
+github_username:  alainparadis
+collections:
+  posts:
+    output: true
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock

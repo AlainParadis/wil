@@ -1,0 +1,11 @@
+{
+  "name": "fieldwork",
+  "private": true,
+  "scripts": {
+    "build-site": "bundle exec jekyll build",
+    "build": "npm run build-site",
+    "deploy:site": "rsync --recursive --checksum --delete --delete-excluded --verbose --compress --chmod=D2755,F644 ./_site/ keycdn:fieldwork/",
+    "deploy": "npm run deploy:site",
+    "build-n-deploy": "npm run build && npm run deploy"
+  }
+}
