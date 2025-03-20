@@ -1,8 +1,3 @@
-/* 
-Font Weights:
-300, 400, 500, 600
- */
-
 :root
 {
 	/* Colours */
@@ -10,7 +5,7 @@ Font Weights:
 	--medium: rgb(110, 132, 137);
 	--light: rgb(194, 201, 189);
 	--lightest: rgb(221, 225, 219);
-	--orange: rgb(229, 62, 11);
+	--orange: rgb(255, 147, 0);
 }
 
 html
