@@ -19,6 +19,9 @@ As you accomplish concrete tasks to organize the Grad Show and do fundraising, y
 
 We have grad web sites for each year. You can find them here:
 
+- 2025, [Kaleido](https://2025.grads.algonquindesign.ca)
+- 2024, [Zenith](https://2024.grads.algonquindesign.ca)
+- 2023, [Resolve](https://2023.grads.algonquindesign.ca)
 - 2022, [Collation](https://2022.grads.algonquindesign.ca)
 - 2021, [Generation Adaptation](https://2021.grads.algonquindesign.ca)
 - 2020, [Anthology](https://2020.grads.algonquindesign.ca)
