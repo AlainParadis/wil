@@ -88,7 +88,7 @@ Who doesn't like a walk on the beach at sunset? Listing travel in your interest 
 
 Unless you're actually a professional photographer, gear and all, avoid listing photography as one of your skills. First, it's offensive to all pro photogs out there. Second, you better be ready to deliver a full-fledged photo shoot. Third, we've all taken that one incredible shot with our iPhone. One photo does not a photographer make.
 
-#### Make No Mistacke!
+#### Make No Mistake!
 
 It's crucial that you read and re-read your résumé to ensure it's error-free. Run your spell checker. Don't trust your spell checker! Have others read it. Have non-designers read it. They're not only reading for errors, they should give you feedback on the tone.
 
