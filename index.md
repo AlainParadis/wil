@@ -31,15 +31,13 @@ We have grad web sites for each year. You can find them here:
 - 2021, [Generation Adaptation](https://2021.grads.algonquindesign.ca)
 - 2020, [Anthology](https://2020.grads.algonquindesign.ca)
 - 2019, [Pathfinder](https://2019.grads.algonquindesign.ca)
-
-<!-- 
-- 2018, [Site_Name](http://2018.grads.algonquindesign.ca)
-- 2017, [Site_Name](https://2017.grads.algonquindesign.ca)
-- 2016, [Site_Name](https://2016.grads.algonquindesign.ca)
-- 2015, [Site_Name](https://2015.grads.algonquindesign.ca)
-- 2014, [Site_Name](https://2014.grads.algonquindesign.ca)
-- 2013, [Site_Name](https://2013.grads.algonquindesign.ca)
- -->
+- 2018, [Reboot](http://2018.grads.algonquindesign.ca)
+- 2017, [Studio N](https://2017.grads.algonquindesign.ca)
+- 2016, [Framework](https://2016.grads.algonquindesign.ca)
+- 2015, [Multiply](https://2015.grads.algonquindesign.ca)
+- 2014, [Level 14](https://2014.grads.algonquindesign.ca)
+- 2013, [Grad Show](https://2013.grads.algonquindesign.ca)
+- 2012, [Grads 2012](https://2012.grads.algonquindesign.ca)
  
  ---- 
 
