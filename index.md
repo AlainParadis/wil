@@ -9,14 +9,6 @@ title: Home
 
 Your first task is to choose a team to which you wish to contribute for Grad Show organization and fundraising.
 
-<div class="alertBox">
-<h3>Face-2-Face</h3>
-<p>
-For 2023, fieldwork will be in person, with a minimum 50% hybrid.
-</p>
-
-</div>
-
 <a href="{{ site.data.course-info.work-spreadsheet }}" title="Open the spreadsheet." target="_blank" class="medium">Grad Show Teams/Work Log</a>
 
 As you accomplish concrete tasks to organize the Grad Show and do fundraising, you'll document it in this spreadsheet.
@@ -39,13 +31,13 @@ We have grad web sites for each year. You can find them here:
 - 2013, [Grad Show](https://2013.grads.algonquindesign.ca)
 - 2012, [Grads 2012](https://2012.grads.algonquindesign.ca)
  
- ---- 
+---- 
 
 ### I Got Fieldwork!
 
 These are the students who have fieldwork and where they got it.
 
-24 of 64 students have fieldwork.
+xx of xx students have fieldwork.
 
 |First|Last|Organization|
 |:----|:----|:----|
