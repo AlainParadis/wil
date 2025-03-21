@@ -10,7 +10,7 @@ The Grad Show is usually held the last week of Fieldwork. This year, that would 
 
 The Grad Show is a self-funded event organized by students in the framework of this course. All students are expected to participate in fundraising activities. These activities may include:
 
-<ul class="columns3">
+<ul class="columns3 none">
 	<li>Mobile bake sales</li>
 	<li>Pub nights</li>
 	<li>Hand lettering event</li>
@@ -59,12 +59,15 @@ The branding team also prepares on-brand graphics required by other teams.
 
 #### Social Media/Promotional Team
 
-- Develop Industry list for e-mailing;
-- Promotions via social media (Facebook, instagram, twitter, eventbrite);
-- Set up email list for invitations to industry and follow up if necessary;
-- Help promote fundraising events, if any;
-- Assemble volunteers to help out at the grad show event (1st, 2nd year students)
-- Promote event (RGD, Algonquin Times, local community).
+<ul>
+	<li>Develop Industry list for e-mailing;</li>
+	<li>Promotions via social media (Facebook, instagram, twitter, eventbrite);</li>
+	<li>Set up email list for invitations to industry and follow up if necessary;</li>
+	<li>Help promote fundraising events, if any;</li>
+	<li>Assemble volunteers to help out at the grad show event (1st, 2nd year students)</li>
+	<li>Promote event (RGD, Algonquin Times, local community).</li>
+</ul>
+
 
 #### Motion Team
 
