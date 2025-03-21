@@ -1,7 +1,7 @@
 port: 4002
-baseurl: ""
 description: "This is the Fieldwork & Professional Practice web site."
-url: /fieldwork
+url: "http://localhost:4002" # Use your production URL when deploying.
+baseurl: "" # Leave empty if your site is at the root domain.
 twitter_username: alainparadis
 github_username:  alainparadis
 collections:
