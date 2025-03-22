@@ -4,11 +4,11 @@ title: Portfolio Development
 ---
 This unofficial summer assignment is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design.
 
-### Objective
+### The Objective
 
 Connect with professional designers to receive feedback on your current projects and advice on building a strong portfolio.
 
-### Process
+### The Process
 
 1. **Identify Designers**: Research and create a list of professional designers you admire or whose work aligns with your interests.
 2. **Prepare Your Work**: Gather 3-5 of your best design projects from school assignments or personal work.
@@ -16,7 +16,7 @@ Connect with professional designers to receive feedback on your current projects
 4. **Prepare for the Meeting**: If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
 5. **Follow Up**: Send a thank-you email expressing your appreciation for their time and insights.
 
-### Benefits
+### The Benefits
 
 By doing this, you will,
 
