@@ -49,7 +49,7 @@ Team leads are managers of the teams. They're not the ones doing all the work. T
 
 #### Web Site Team
 
-This team works with the Web Design teacher to build the web site for the graduating cohort. See last year's <a href="https://2022.grads.algonquindesign.ca" title="2021 Grad Web Site" target="_blank">grad site here</a>.
+This team works with the Web Design teacher to build the web site for the graduating cohort.
 
 #### Branding Team
 
