@@ -194,7 +194,9 @@ hr
 	border-top: 1px dashed #8c8c8c;
 }
 
-#employer-filter { margin: 2rem 0; }
+/* * * * * EMPLOYER FILTER SYTYLING * * * * */
+
+#employer-filter { margin: 1rem 0; }
 
 #modality-select {
   appearance: none;
@@ -204,8 +206,8 @@ hr
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 8px 12px;
-  font-size: 16px;
-  color: #333;
+  font-size: 1rem;
+  color: var(--dark);
   cursor: pointer;
   width: 200px;
   outline: none;
@@ -233,6 +235,7 @@ hr
   display: none;
 }
 
+/* * * * * END EMPLOYER FILTER SYTYLING * * * * */
 
 .current
 {
