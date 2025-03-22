@@ -10,7 +10,7 @@ Your résumé should be an error-free, creatively written, professionally design
 <ul class="hasBullets">
 	<li>It's a business document, not a portfolio piece. Avoid over-designing it.</li>
 	<li>Proof read, proof read, proof read.</li>
-	<li>Make it only one page long.</li>
+	<li>Make it only one page long, if possible.</li>
 	<li>When presenting it, prepare for any eventuality. Have a backup plan.</li>
 	<li>It's a living document. Update it as you grow as a designer.</li>
 </ul>
@@ -106,13 +106,8 @@ If there was a job posting, answer the language in the posting in your cover let
 
 Your résumé is a professional business document. It shouldn't be origami art—better simple and well executed than over-designed. Avoid clichés or contrived concepts that'll be more of a burden on the employer. You'll need to gauge the degree of creativity you put into your résumé. If you go overboard, the document overwhelms and confuses. If you stop short, you could be perceived as unimaginative or unmotivated.
 
-How far do you go with your design? That's up to you. To start, your layout, typography and colour treatment needs to be flawless—even to a seasoned designer.
-
-Design your résumé to have a consistent look with your web site and other social media platforms.
-
-Avoid using a template. You're a graphic designer. Design and build your résumé from the ground up.
-
-Apply all the production skills you have. Resolution, file size and colour fidelity are all important.
+How far do you go with your design? That's up to you. To start, your layout, typography and colour treatment needs to be flawless—even to a seasoned designer. Design your résumé to have a consistent look with your web site and other social media platforms. 
+Avoid using a template. You're a graphic designer. Design and build your résumé from the ground up. Apply all the production skills you have. Resolution, file size and colour fidelity are all important.
 
 ### Delivery
 
