@@ -2,7 +2,7 @@
 layout: default
 title: Portfolio Development
 ---
-This unofficial summer assignment is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design.
+This unofficial summer assignment is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html) and [recent grads](index.html#grads), you'll receive expert advice on your current work and guidance for your future career in graphic design.
 
 ### The Objective
 
@@ -32,5 +32,7 @@ By doing this, you will,
 
 
 Remember, this is a self-directed assignment for your professional development. It's not graded, but the benefits to your career can be significant. I will be available throughout the summer if you need advice or support. By taking on this initiative, you're demonstrating professionalism and dedication to your craft — qualities that will serve you well in your design career.
+
+I'd really love to hear about your experiences. Please don't hesitate to share them with me!
 
 ---  [Alain Paradis](mailto:paradia@algonquincollege.com)

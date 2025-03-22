@@ -9,7 +9,7 @@ title:
 
 This unofficial summer activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](portfolio-development.html)
 
-### Grad Web Sites
+### <a name="grads">Grad Web Sites</a>
 
 We have grad web sites for each year. You can find them here:
 
