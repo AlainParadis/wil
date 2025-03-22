@@ -2,11 +2,16 @@ port: 4002
 description: "This is the Fieldwork & Professional Practice web site."
 url: "http://localhost:4002"
 baseurl: ""
+theme: null
+exclude:
+  - vendor
+  - tmp
+  - Gemfile
+  - Gemfile.lock
+  - .sass-cache/
+  - .jekyll-cache/
 twitter_username: alainparadis
 github_username:  alainparadis
 collections:
   posts:
     output: true
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
