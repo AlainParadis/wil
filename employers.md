@@ -5,30 +5,22 @@ title: Fieldwork Employers
 This is a list of employers who've taken students on Fieldwork in past years. You'll have to do your own research to find out who to contact.
 
 <ul class="legend">
-  <li>
+  <li data-modality="all" class="active">
+    <span>All</span>
+  </li>
+  <li data-modality="In-Person">
     <img src="{{ '/svg/in-person.svg' | relative_url }}" alt="In-Person" width="20" height="20">
     <span>In-Person</span>
   </li>
-  <li>
+  <li data-modality="Hybrid">
     <img src="{{ '/svg/hybrid.svg' | relative_url }}" alt="Hybrid" width="20" height="20">
     <span>Hybrid</span>
   </li>
-  <li>
-    <img src="{{ '/svg/in-person.svg' | relative_url }}" alt="Remote" width="20" height="20">
+  <li data-modality="Remote">
+    <img src="{{ '/svg/remote.svg' | relative_url }}" alt="Remote" width="20" height="20">
     <span>Remote</span>
   </li>
 </ul>
-
-<div id="employer-filter">
-  <label for="modality-select">Filter by Modality:</label>
-  <select id="modality-select">
-    <option value="all">All</option>
-    <option value="In-Person">In-Person</option>
-    <option value="Hybrid">Hybrid</option>
-    <option value="Remote">Remote</option>
-  </select>
-</div>
-
 
 <ul class="employers">
   {% for row in site.data.employers %}

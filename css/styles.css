@@ -194,49 +194,6 @@ hr
 	border-top: 1px dashed #8c8c8c;
 }
 
-/* * * * * EMPLOYER FILTER SYTYLING * * * * */
-
-#employer-filter { margin: 1rem 0; }
-
-#modality-select {
-  appearance: none;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  background-color: #f0f0f0;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  padding: 8px 12px;
-  font-size: 1rem;
-  color: var(--dark);
-  cursor: pointer;
-  width: 200px;
-  outline: none;
-}
-
-#modality-select:hover {
-  background-color: #e8e8e8;
-}
-
-#modality-select:focus {
-  border-color: #007bff;
-  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
-}
-
-/* Custom arrow */
-#modality-select {
-  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
-  background-repeat: no-repeat;
-  background-position: right 8px center;
-  padding-right: 30px;
-}
-
-/* Hide default arrow in IE */
-#modality-select::-ms-expand {
-  display: none;
-}
-
-/* * * * * END EMPLOYER FILTER SYTYLING * * * * */
-
 .current
 {
 	font-style: normal;
@@ -286,6 +243,9 @@ ul.legend li img
 	margin-right: 10px;
 	/* Add spacing between icon and text */
 }
+
+.legend span { border-bottom: 1px solid var(--orange); }
+.legend li:hover { cursor: pointer; }
 
 ul.employers li span img, ul.legend li span img
 {
