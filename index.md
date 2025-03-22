@@ -5,6 +5,10 @@ title:
 
 {{ site.data.course-info.course-description }}
 
+### [Portfolio Development](portfolio-development.html)
+
+This unofficial summer activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](portfolio-development.html)
+
 ### Grad Web Sites
 
 We have grad web sites for each year. You can find them here:
@@ -24,8 +28,6 @@ We have grad web sites for each year. You can find them here:
 2013, [Grad Show](https://2013.grads.algonquindesign.ca)  
 2012, [Grads 2012](https://2012.grads.algonquindesign.ca)  
  
----- 
-
 ### I Got Fieldwork!
 
 These are the students who have fieldwork and where they got it.
