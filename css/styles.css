@@ -4,7 +4,7 @@
 	--text-color: rgb(220, 220, 220);
 	--dark: rgb(43, 43, 43);
 	--medium: rgb(80, 80, 80);
-	--light: rgb(194, 201, 189);
+	--light: rgb(194, 194, 194);
 	--lightest: rgb(221, 225, 219);
 	--orange: rgb(255, 147, 0);
 }
@@ -103,7 +103,7 @@ a:hover
 
 a:active { color: var(--orange); }
 a:focus { outline: 2px solid black; }
-p { margin-bottom: .5rem; }
+p { margin-bottom: 2.0rem; }
 
 figure svg
 {
@@ -117,7 +117,7 @@ figcaption
 	margin: 1rem auto 2rem auto;
 	text-align: center;
 	font-weight: 500;
-	color: var(--medium);
+	color: var(--light);
 }
 
 .current
