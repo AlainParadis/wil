@@ -50,9 +50,9 @@ It's up to you to develop your portfolio to apply for Fieldwork, though you will
 
   A document will be sent to you at a later date.
 
-#### Legal Stuff
+### Legal Stuff
 
-##### Is Your Fieldwork Abroad?
+#### Is Your Fieldwork Abroad?
 
   If a student wishes to complete their fieldwork outside of Canada you should contact the Centre for International Studies here at the college for information about studies outside of Canada. Go to the link Apply for Funding&nbsp;to get additional information about study or work internationally.
 
@@ -62,6 +62,6 @@ It's up to you to develop your portfolio to apply for Fieldwork, though you will
 
   Interested in a bursary for your fieldwork abroad? <a href="https://www.algonquincollege.com/international/swa/awards/" target="_blank">Read more...</a>
 
-##### International Students
+#### International Students
 
   If you are an international student you need to contact the <a href="https://www.algonquincollege.com/international/" title="International Education Centre" target="_blank">International Education Centre</a>. You can email <a href="mailto:iecsupport@algonquincollege.com" title="International Education Centre">iecsupport@algonquincollege.com</a> to inquire. They will supply you with a required letter that you have to have signed by me to enable your eligibility to work in Canada for the required 6 weeks of placement in order for you to graduate.
