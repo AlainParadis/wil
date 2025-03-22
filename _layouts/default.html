@@ -4,10 +4,10 @@
 	<meta charset="UTF-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" type="text/css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="{{ '/css/styles.css' | relative_url }}" type="text/css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&amp;display=swap" rel="stylesheet">
 	<title>Fieldwork</title>
 </head>
 <body>
@@ -26,12 +26,14 @@
 		</h1>
 	</header>
 	<main>
-	<h2>{{ page.title }}</h2>
-	{{ content }}
-	</main> 
+		<h2>
+			{{ page.title }}
+		</h2>
+		{{ content }} 
+	</main>
 	<aside>
 		<h3>
-			Resources
+			Resources 
 		</h3>
 		{% include aside.html %} 
 	</aside>
@@ -39,5 +41,25 @@
 		{% include footer.html %} 
 	</footer>
 </div>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+	  const modalitySelect = document.getElementById('modality-select');
+	  const employerList = document.querySelector('.employers');
+	  const employers = employerList.querySelectorAll('li');
+	
+	  modalitySelect.addEventListener('change', function() {
+	    const selectedModality = this.value;
+	    
+	    employers.forEach(function(employer) {
+	      const modality = employer.querySelector('img').alt;
+	      if (selectedModality === 'all' || modality === selectedModality) {
+	        employer.style.display = '';
+	      } else {
+	        employer.style.display = 'none';
+	      }
+	    });
+	  });
+	});
+</script>
 </body>
 </html>

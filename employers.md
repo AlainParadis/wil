@@ -19,6 +19,16 @@ This is a list of employers who've taken students on Fieldwork in past years. Yo
   </li>
 </ul>
 
+<div id="employer-filter">
+  <label for="modality-select">Filter by Modality:</label>
+  <select id="modality-select">
+    <option value="all">All</option>
+    <option value="In-Person">In-Person</option>
+    <option value="Hybrid">Hybrid</option>
+    <option value="Remote">Remote</option>
+  </select>
+</div>
+
 
 <ul class="employers">
   {% for row in site.data.employers %}
@@ -38,7 +48,6 @@ This is a list of employers who've taken students on Fieldwork in past years. Yo
       {% endif %}
     </span>
   </li>
-  <hr>
   {% endfor %}
 </ul>
 
