@@ -6,28 +6,23 @@ title: Grad Show
 
 The Grad Show is usually held the last week of Fieldwork. This year, that would be {{ site.data.course-info.grad-show-date }}.
 
+### Grad Show Work Spreadsheet
+
+Your first task is to choose a team to which you wish to contribute for Grad Show organization and fundraising.
+
+<a href="{{ site.data.course-info.work-spreadsheet }}" title="Open the spreadsheet." target="_blank" class="medium">Grad Show Teams/Work Log</a>
+
+As you accomplish concrete tasks to organize the Grad Show and do fundraising, you'll document it in this spreadsheet.
+
 ### Fundraising
 
-The Grad Show is a self-funded event organized by students in the framework of this course. All students are expected to participate in fundraising activities. These activities may include:
-
-<ul class="columns3 none">
-	<li>Mobile bake sales</li>
-	<li>Pub nights</li>
-	<li>Hand lettering event</li>
-	<li>Poster sales</li>
-	<li>Card sales</li>
-	<li>GoFundMe page</li>
-	<li>Speed portfolio dating</li>
-	<li>Online bidding for donated items</li>
-	<li>Movie night</li>
-	<li>Paint night</li>
-</ul>
+The Grad Show is a self-funded event organized by students in the framework of this course. All students are expected to participate in fundraising activities. These activities may include: mobile bake sales, GoFundMe page, pub nights, art sales.
 
 The Student Association also contributes about $1000, or about $20 per graduating student. It could be more, it's up to you to enquire what funds are available from the S.A.
 
-<!-- #### Expenses
+### Expenses
 
-The rental fee for the Horticulture Building is about $2500 for the evening. There are other event costs. We generally want to fundraise over $3000. It's a good idea to leave some money behind for potential future program project funding. -->
+The rental fee for the Horticulture Building is about $3000 for the evening. There are other event costs. We generally want to fundraise over $4000. It's a good idea to leave some money behind for potential future program project funding.
 
 ### Team Workings & Functions
 
