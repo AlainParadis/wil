@@ -3,7 +3,7 @@ description: "This is the Fieldwork & Professional Practice web site."
 # The base URL of your site when hosted
 # The subdirectory for your repository (leave empty for root-level sites)
 url: "https://alainparadis.github.io"
-baseurl: "/WIL"
+baseurl: "/wil"
 theme: null
 exclude:
   - vendor
