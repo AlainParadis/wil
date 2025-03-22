@@ -35,7 +35,7 @@ Be sure to address the recipient by name. Be formal about this. The commonly use
 
 If you're going to use bullet lists, use action verbs to start each item, like these:
 
-<ul class="columns3">
+<ul class="columns3 none">
 	<li>authored</li>
 	<li>brainstormed</li>
 	<li>communicated</li>
