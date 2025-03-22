@@ -2,7 +2,7 @@
 layout: default
 title: 
 ---
-### Course Description
+
 {{ site.data.course-info.course-description }}
 
 ### Grad Show Work Spreadsheet
