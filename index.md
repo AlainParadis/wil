@@ -5,16 +5,6 @@ title:
 
 {{ site.data.course-info.course-description }}
 
-### Grad Show Work Spreadsheet
-
-Your first task is to choose a team to which you wish to contribute for Grad Show organization and fundraising.
-
-<a href="{{ site.data.course-info.work-spreadsheet }}" title="Open the spreadsheet." target="_blank" class="medium">Grad Show Teams/Work Log</a>
-
-As you accomplish concrete tasks to organize the Grad Show and do fundraising, you'll document it in this spreadsheet.
-
----- 
-
 ### Grad Web Sites
 
 We have grad web sites for each year. You can find them here:
