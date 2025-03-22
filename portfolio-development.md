@@ -15,6 +15,11 @@ Connect with professional designers to receive feedback on your current projects
 3. **Craft Your Email**: Write a professional email to request a meeting.
 4. **Prepare for the Meeting**: If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
 5. **Follow Up**: Send a thank-you email expressing your appreciation for their time and insights.
+6. If or when you make the suggested improvement to your portfolio pieces, you could always share with them.
+
+Connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
+
+Seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
 
 ### The Benefits
 
