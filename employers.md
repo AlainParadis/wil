@@ -2,7 +2,17 @@
 layout: default
 title: Fieldwork Employers
 ---
-This is a list of employers who've taken students on Fieldwork in past years. You'll have to do your own research to find out who to contact.
+This is a list of {{ site.data.employers.size }} employers who've taken students on Fieldwork in past years. You'll have to do your own research to find out who to contact. 
+
+{% assign modality_groups = site.data.employers | group_by: "Modality" %}
+
+<!-- 
+<ul class="none">
+{% for group in modality_groups %}
+  <li>{{ group.name }}: {{ group.items | size }}</li>
+{% endfor %}
+</ul>
+ -->
 
 <ul class="legend">
   <li data-modality="all" class="active">
