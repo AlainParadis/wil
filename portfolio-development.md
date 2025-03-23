@@ -17,6 +17,8 @@ Connect with professional designers to receive feedback on your current projects
 5. **Follow Up**: Send a thank-you email expressing your appreciation for their time and insights.
 6. If or when you make the suggested improvement to your portfolio pieces, you could always share with them.
 
+The file linked below is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you.
+
 <figure>
     <a href="downloads/e-mail-template.txt.zip" title="Download sample text">{% include /svg/icon-email.svg %}</a>
     <figcaption>
