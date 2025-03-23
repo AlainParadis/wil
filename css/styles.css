@@ -5,7 +5,7 @@
 	--dark: rgb(36, 36, 36);
 	--medium: rgb(80, 80, 80);
 	--light: rgb(194, 194, 194);
-	--lightest: rgb(221, 225, 219);
+	--lightest: rgb(222, 222, 222);
 	--orange: rgb(255, 147, 0);
 	--orange50: rgba(255, 147, 0, 0.5);
 }
@@ -96,8 +96,16 @@ a, a:link
 
 a:visited { color: var(--light); }
 a:active { color: var(--orange); }
-a:hover { color: var(--lightest); }
+a:hover { color: var(--lightest); border-bottom: 1px solid var(--orange50); }
 p { margin-bottom: 2.0rem; }
+
+svg {
+  filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 1));
+}
+
+svg:hover {
+  filter: none;
+}
 
 figure svg
 {

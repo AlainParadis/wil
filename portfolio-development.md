@@ -17,6 +17,14 @@ Connect with professional designers to receive feedback on your current projects
 5. **Follow Up**: Send a thank-you email expressing your appreciation for their time and insights.
 6. If or when you make the suggested improvement to your portfolio pieces, you could always share with them.
 
+<figure>
+    <a href="downloads/e-mail-template.txt.zip" title="Download sample text">{% include /svg/icon-email.svg %}</a>
+    <figcaption>
+        <a href="downloads/e-mail-template.txt.zip" title="Download sample text">Download sample text<br>
+        for your message to designers</a>
+    </figcaption>
+</figure>
+  
 Connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
 
 Seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
