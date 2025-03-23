@@ -28,7 +28,7 @@ The rental fee for the Horticulture Building is about $3000 for the evening. The
 
 You all need to be part of one of the teams listed on the <a href="{{ site.data.course-info.work-spreadsheet }}" title="Grad Show Teams/Work Log" target="_blank">Work Log</a>. Being on a team doesn't limit you. You can participate in any of the activities. Teams are expected to collaborate. For instance, if the Motion Team needs brand graphics, they'll request them with specifications from the Branding Team.
 
-Two people are elected as chairs to oversee all activities as well as coordinate and attend meetings with team leads. They meet with {{ site.data.course-info.prof-screen-name }} to provide progress updates. They act as overseers of, and liaisons between all the teams leads. Team leads are the voice for their teams.
+Two people are elected as chairs to oversee all activities as well as coordinate and attend meetings with team leads. They meet with {{ site.data.course-info.prof-short-name }} to provide progress updates. They act as overseers of, and liaisons between all the teams leads. Team leads are the voice for their teams.
 
 #### Branding Team
 
@@ -40,11 +40,11 @@ This team works with the Web Design instructor to build the grad web site. They 
 
 #### Social Media Team
 
-The social team promotes each student on all social channels with graphics that are coordinated with the Branding Team. Fundraising events are also posted to socials.
+The social team promotes each student on all social channels with graphics that are coordinated with the Branding Team. Fundraising events are also posted to socials, along with documenting all the semester's happenings.
 
 #### Motion Team
 
-Produce and manage on-brand motion graphics for the web site, for event promotions, and for motion pieces that play at the Grad Show.
+Motion folks produce and manage on-brand motion graphics for the website, for event promotions, and for the motion pieces that play at the Grad Show. They also provide motion content to the social team.
 
 #### Photography Team
 
