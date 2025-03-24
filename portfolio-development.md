@@ -10,32 +10,25 @@ Connect with professional designers to receive feedback on your current projects
 
 ### The Process
 
-1. **Identify Designers**: Research and create a list of professional designers you admire or whose work aligns with your interests.
-2. **Prepare Your Work**: Gather 3-5 of your best design projects from school assignments or personal work.
-3. **Craft Your Email**: Write a professional email to request a meeting.
-4. **Prepare for the Meeting**: If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
-5. Take notes during the meeting.
-6. **Follow Up**: Send a thank-you email expressing your appreciation for their time and insights.
-7. If or when you make the suggested improvement to your portfolio pieces, you could always share with them.
+#### Identify Designers
+Research and create a list of designers you admire, whose work aligns with your interests. If you can't find their e-mail address, connect with them on LinkedIn.
 
-The file linked below is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you.
+#### Prepare Your Work
+Gather 3-5 of your best design projects from school assignments or personal work. Create a multi-page PDF file with each piece. If you have print pieces, also bring them printed. If you have motion, render it out to a video file. You can show web designs running locally in the browser. Avoid depending on wifi for your meeting.
 
-<figure>
-    <a href="downloads/e-mail-template.txt.zip" title="Download sample text">{% include /svg/icon-email.svg %}</a>
-    <figcaption>
-        <a href="downloads/e-mail-template.txt.zip" title="Download sample text">Download sample text<br>
-        for your message to designers</a>
-    </figcaption>
-</figure>
-  
-You should also connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
+#### Craft Your Email
+Write a professional email to request a meeting. [This text file](downloads/e-mail-template.txt.zip) is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you. You should also connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
+
+#### Prepare for the Meeting
+If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
+
+#### Take notes
+Note suggested changes to your work during the meeting.
+
+#### Follow Up
+Send a thank-you email expressing your appreciation for their time and insights. If you make changes to your work, you could share with them to keep the conversation going.
 
 Seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
-
-### Preparing Your Work
-
-Preparing your work should be fairly straightforward. Create a multi-page PDF file with each piece. If you have print pieces, also bring them printed. If you have motion, render it out to a video file. You can show web designs running locally in the browser. Avoid depending on wifi for your meeting.
-
 ### The Benefits
 
 By doing this, you will,
@@ -50,4 +43,4 @@ Remember, this is a self-directed assignment for your professional development. 
 
 If you have questions as you prepare for this, please don't hesitate to ask. I'd really love to hear about your experiences. Please don't hesitate to share them with me!
 
----  [Alain Paradis](mailto:paradia@algonquincollege.com)
+---  @[Alain Paradis](mailto:paradia@algonquincollege.com)
