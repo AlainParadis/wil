@@ -23,12 +23,14 @@ Write a professional email to request a meeting. [This text file](downloads/e-ma
 If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
 
 #### Take notes
-Note suggested changes to your work during the meeting.
+Note suggested changes to your work during the meeting. If you see multiple designers, you may find that you get contradicting advice. Take it all in. Craft the path that suits you best.
 
 #### Follow Up
-Send a thank-you email expressing your appreciation for their time and insights. If you make changes to your work, you could share with them to keep the conversation going.
+Send a thank-you email expressing your appreciation for their time and insights. If you make changes to your work, you should share with them to keep the conversation going.
 
-Seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
+Other Summer Activities
+
+In addition to building your portfolio, you can seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
 
 ### The Benefits
 
