@@ -29,18 +29,11 @@ Note suggested changes to your work during the meeting.
 Send a thank-you email expressing your appreciation for their time and insights. If you make changes to your work, you could share with them to keep the conversation going.
 
 Seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
+
 ### The Benefits
 
-By doing this, you will,
+By doing this, you'll gain professional feedback on your work and learn about industry expectations for portfolios. It will also build your professional network, which will support your preparation for fieldwork opportunities in level 6
 
-- Gain professional feedback on your work
-- Learn about industry expectations for portfolios
-- Build your professional network
-- Prepare for fieldwork opportunities in level 6
-
-
-Remember, this is a self-directed assignment for your professional development. It's not graded, but the benefits to your career can be significant. I will be available throughout the summer if you need advice or support. By taking on this initiative, you're demonstrating professionalism and dedication to your craft — qualities that will serve you well in your design career.
-
-If you have questions as you prepare for this, please don't hesitate to ask. I'd really love to hear about your experiences. Please don't hesitate to share them with me!
+Remember, this is a self-directed assignment for your professional development. It's obviously not graded, but the benefits to your career can be significant. [I will be available](mailto:paradia@algonquincollege.com) throughout the summer if you need advice or support. By taking on this initiative, you're demonstrating professionalism and dedication to your craft — qualities that will serve you well in your design career.
 
 ---  @[Alain Paradis](mailto:paradia@algonquincollege.com)
