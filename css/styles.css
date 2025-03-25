@@ -96,16 +96,16 @@ a, a:link
 
 a:visited { color: var(--light); }
 a:active { color: var(--orange); }
+a:hover { color: var(--lightest); border-bottom: 1px solid var(--orange50); }
+p { margin-bottom: 2.0rem; }
 
-a:hover
-{
-	color: var(--lightest);
-	border-bottom: 1px solid var(--orange50);
+svg {
+  filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 1));
 }
 
-p { margin-bottom: 2.0rem; }
-svg { filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 1)); }
-svg:hover { filter: none; }
+svg:hover {
+  filter: none;
+}
 
 figure svg
 {
@@ -208,22 +208,7 @@ hr
 	font-weight: 600;
 }
 
-ul
-{
-	margin: 0 0 1rem 1rem;
-	padding-left: none;
-	list-style-type: none;
-}
-
-li::before
-{
-	content: "\25E6";
-	color: var(--orange);
-	/* Change this to your desired color */
-	display: inline-block;
-	width: 1rem;
-	margin-right: 0.5rem;
-}
+ul { margin: 0 0 1rem 3rem; }
 
 ul.none
 {
