@@ -16,6 +16,14 @@ Research and create a list of designers you admire, whose work aligns with your 
 #### Prepare Your Work
 Gather 3-5 of your best design projects from school assignments or personal work. Create a multi-page PDF file with each piece. If you have print pieces, also bring them printed. If you have motion, render it out to a video file. You can show web designs running locally in the browser. Avoid depending on wifi for your meeting.
 
+These are sites you can use to post your work without having to build your own:
+
+-   [Behance.net](https://www.behance.net/)
+-   [Adobe Portfolio](https://portfolio.adobe.com/)
+-   [Dribbble](https://dribbble.com)
+-   [SqareSpace](https://www.squarespace.com)
+-   [Wix](https://www.wix.com)
+
 #### Craft Your Email
 Write a professional email to request a meeting. [This text file](downloads/e-mail-template.txt.zip) is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you. You should also connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
 
