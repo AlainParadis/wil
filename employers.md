@@ -19,15 +19,15 @@ This is a list of {{ site.data.employers.size }} employers who've taken students
     <span>All</span>
   </li>
   <li data-modality="In-Person">
-    <img src="{{ '{{ site.url }}{{ site.baseurl }}{{ site.url }}{{ site.baseurl }}/svg/in-person.svg' | relative_url }}" alt="In-Person" width="20" height="20">
+   <img src="{{ site.url }}{{ site.baseurl }}/svg/in-person.svg" alt="In-Person" width="20" height="20">
     <span>In-Person</span>
   </li>
   <li data-modality="Hybrid">
-    <img src="{{ '{{ site.url }}{{ site.baseurl }}/svg/hybrid.svg' | relative_url }}" alt="Hybrid" width="20" height="20">
+    <img src="{{ site.url }}{{ site.baseurl }}/svg/hybrid.svg" alt="Hybrid" width="20" height="20">
     <span>Hybrid</span>
   </li>
   <li data-modality="Remote">
-    <img src="{{ '{{ site.url }}{{ site.baseurl }}/svg/remote.svg' | relative_url }}" alt="Remote" width="20" height="20">
+    <img src="{{ site.url }}{{ site.baseurl }}/svg/remote.svg" alt="Remote" width="20" height="20">
     <span>Remote</span>
   </li>
 </ul>
@@ -40,11 +40,11 @@ This is a list of {{ site.data.employers.size }} employers who've taken students
     <span>{{ row.Location }}</span>, 
     <span>
       {% if row.Modality == "In-Person" %}
-      <img src="{{ '{{ site.url }}{{ site.baseurl }}/svg/in-person.svg' | relative_url }}" alt="In-Person" width="20" height="20">
+      <img src="{{ site.url }}{{ site.baseurl }}/svg/in-person.svg" alt="In-Person" width="20" height="20">
       {% elsif row.Modality == "Hybrid" %}
-        <img src="{{ '{{ site.url }}{{ site.baseurl }}/svg/hybrid.svg' | relative_url }}" alt="Hybrid" width="20" height="20">
+        <img src="{{ site.url }}{{ site.baseurl }}/svg/hybrid.svg" alt="Hybrid" width="20" height="20">
       {% elsif row.Modality == "Remote" %}
-        <img src="{{ '{{ site.url }}{{ site.baseurl }}/svg/remote.svg' | relative_url }}" alt="Remote" width="20" height="20">
+        <img src="{{ site.url }}{{ site.baseurl }}/svg/remote.svg" alt="Remote" width="20" height="20">
       {% else %}
         {{ row.Modality }} <!-- Fallback to text if no match -->
       {% endif %}

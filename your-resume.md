@@ -68,7 +68,7 @@ If you're going to use bullet lists, use action verbs to start each item, like t
 Speaking of lists, you do not need to list *every* design software title you know. It's enough to state that you are proficient with using them. You can mention that if you excel at one more than others if you specialize in a discipline—After Effects for motion graphics, for example. Do not claim to be a Photoshop god. Sorry, but you're likely not one.
 
   <figure>
- {% include /svg/resume-software-skills.svg %}    
+    {% include /svg/resume-software-skills.svg %}
   <figcaption>
     Avoid listing software titles. Who says you're 75% proficient in Photoshop‽
   </figcaption>
