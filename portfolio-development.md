@@ -25,7 +25,7 @@ These are sites you can use to post your work without having to build your own:
 -   [Wix](https://www.wix.com)
 
 #### Craft Your Email
-Write a professional email to request a meeting. [This text file](downloads/e-mail-template.txt.zip) is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you. You should also connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
+Write a professional email to request a meeting. <a href="{{ site.url }}{{ site.baseurl }}/downloads/e-mail-template.txt.zip" title="Download sample text">This text file</a> is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you. You should also connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
 
 #### Prepare for the Meeting
 If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
