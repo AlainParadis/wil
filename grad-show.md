@@ -2,8 +2,6 @@
 layout: default
 title: Grad Show
 ---
-### The Event
-
 The Grad Show is a self-funded event organized by students to celebrate your success in the program. It is usually held the last week of Fieldwork. That'll be {{ site.data.course-info.grad-show-date }}. The goal of the event is to share the design work from your three years in the program with family, friends, faculty, and industry professionals. It's also a great networking opportunity.
 
 ### Grad Show Work Spreadsheet
@@ -35,3 +33,7 @@ The **Branding Team** adopts the identity that was chosen by the cohort. They co
 Wendy Warren will be available to support the construction of the grad website by the **Web Team**. Assets are provided by the Branding Team. All creative decisions about the site are shared with the cohort.
 
 Social media promotion is managed by the **Social Team**. They promote each student on all social channels with graphics provided by the Branding Team. Fundraising events are also posted to socials, along with documenting all the semester's happenings. All this is supported with photos provided by the **Photography Team**. They help to coordinate the photography of students for the website. They document events including bake sales, pub nights and more.
+
+### The Event
+
+We historically have started setting up the event at 2pm on the day of the Grad Show. If we hold the event at the Horticulture Building, we don't need to rent banquet tables. There's space for each student to have a 1.5m banquet table. We do need to source table linens. Students bring extension cords and power bars.
