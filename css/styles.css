@@ -93,42 +93,48 @@ a, a:link
 	border-bottom: 1px solid var(--orange);
 	text-decoration-color: var(--orange);
 }
-a:focus, button:focus {
-  outline: 2px solid var(--light);
-  outline-offset: 4px;
+
+a:focus, button:focus
+{
+	outline: 2px solid var(--light);
+	outline-offset: 4px;
 }
 
 a:visited { color: var(--light); }
 a:active { color: var(--orange); }
-a:hover { color: var(--lightest); border-bottom: 1px solid var(--orange50); }
+
+a:hover
+{
+	color: var(--lightest);
+	border-bottom: 1px solid var(--orange50);
+}
+
 p { margin-bottom: 2.0rem; }
 
-.skip-link {
-  position: absolute;
-  left: -999px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
-.skip-link:focus {
-  position: static;
-  width: auto;
-  height: auto;
-  margin: 1em;
-  padding: 0.5em 1em;
-  background: #000;
-  color: #fff;
-  z-index: 1000;
+.skip-link
+{
+	position: absolute;
+	left: -999px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	overflow: hidden;
 }
 
-svg {
-  filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 1));
+.skip-link:focus
+{
+	position: static;
+	width: auto;
+	height: auto;
+	margin: 1em;
+	padding: 0.5em 1em;
+	background: #000;
+	color: #fff;
+	z-index: 1000;
 }
 
-svg:hover {
-  filter: none;
-}
+svg { filter: drop-shadow(0px 0px 6px rgba(0, 0, 0, 1)); }
+svg:hover { filter: none; }
 
 figure svg
 {
@@ -428,20 +434,23 @@ footer span { display: block; }
 	
 	nav ul li a { font-size: 1.1rem; }
 	h1 { font-size: 2rem; }
+	aside h3 { margin-top: 2rem; }
 }
 
-.copy-container {
-  position: relative;
-  border: 1px solid #ccc;
-  padding: 1em;
-  padding-top: 2.5rem;
-  margin-bottom: 2rem;
+.copy-container
+{
+	position: relative;
+	border: 1px solid #ccc;
+	padding: 1em;
+	padding-top: 2.5rem;
+	margin-bottom: 2rem;
 }
 
-.copy-button {
-  position: absolute;
-  top: 1em;
-  right: 1em;
-  padding: 0.5em 1em;
-  cursor: pointer;
+.copy-button
+{
+	position: absolute;
+	top: 1em;
+	right: 1em;
+	padding: 0.5em 1em;
+	cursor: pointer;
 }
