@@ -32,8 +32,26 @@ We have grad web sites for each year. You can find them here:
 
 These are the students who have fieldwork and where they got it.
 
-xx of xx students have fieldwork.
+{% assign fieldwork_count = site.data.i-got-fieldwork | size %}
 
-|First|Last|Organization|
-|:----|:----|:----|
-|FirstName|LastName|[StudioName](https://www.apple.ca)|
+<p>{{ fieldwork_count }} of {{ site.total_students }} students have fieldwork.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>First</th>
+      <th>Last</th>
+      <th>Organization</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for student in site.data.i-got-fieldwork %}
+    <tr>
+      <td>{{ student.first_name }}</td>
+      <td>{{ student.last_name }}</td>
+      <td><a href="{{ student.studio_url }}">{{ student.studio_name }}</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
