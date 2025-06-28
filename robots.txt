@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fieldwork.algonquindesign.ca/sitemap.xml
