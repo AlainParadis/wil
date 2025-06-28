@@ -18,3 +18,5 @@ github_username:  alainparadis
 collections:
   posts:
     output: true
+plugins:
+    - jekyll-sitemap

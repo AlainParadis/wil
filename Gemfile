@@ -14,4 +14,4 @@ gem "webrick"
 gem "bigdecimal"
 gem "csv"
 gem "base64"
-
+gem "jekyll-sitemap"

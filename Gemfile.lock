@@ -306,6 +306,7 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.9.3)
   jekyll-sass-converter (~> 1.5.2)
+  jekyll-sitemap
   kramdown-parser-gfm (~> 1.1.0)
   webrick
 
