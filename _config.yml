@@ -5,6 +5,7 @@ description: "This is the Fieldwork & Professional Practice web site."
 url: "https://alainparadis.github.io"
 baseurl: "/wil"
 theme: null
+title: "Professional Practice"
 exclude:
   - vendor
   - tmp
