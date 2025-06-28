@@ -2,7 +2,9 @@
 layout: default
 title: Design Business Documents
 ---
-It’s often difficult to define where a design project starts and finishes. If we take a web site as an example, the number of pages and the site functionality can be quite nebulous. Are page templates needed? Is database functionality needed? All this needs to be clearly defined.
+It’s often difficult to define where a design project starts and finishes. If we take a web site as an example, the number of pages and the site functionality can be quite nebulous. Are page templates needed? Is database functionality needed? All this needs to be clearly defined. That's where a professionally designed, thorough, and precise proposal comes into play.
+
+> You're a student member of the RGD. If you log in to their web site, you can download basic templates for business documents.
 
 ### The RFP
 
