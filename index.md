@@ -13,28 +13,30 @@ This unofficial summer activity is designed to help you kickstart your professio
 
 We have grad web sites for each year. You can find them here:
 
-2025, [Kaleido](https://2025.grads.algonquindesign.ca)  
-2024, [Zenith](https://2024.grads.algonquindesign.ca)  
-2023, [Resolve](https://2023.grads.algonquindesign.ca)  
-<!-- 2022, [Collation](https://2022.grads.algonquindesign.ca)   -->
-2021, [Generation Adaptation](https://2021.grads.algonquindesign.ca)  
-2020, [Anthology](https://2020.grads.algonquindesign.ca)  
-2019, [Pathfinder](https://2019.grads.algonquindesign.ca)  
-2018, [Reboot](http://2018.grads.algonquindesign.ca)  
-2017, [Studio N](https://2017.grads.algonquindesign.ca)  
-2016, [Framework](https://2016.grads.algonquindesign.ca)  
-2015, [Multiply](https://2015.grads.algonquindesign.ca)  
-2014, [Level 14](https://2014.grads.algonquindesign.ca)  
-2013, [Grad Show](https://2013.grads.algonquindesign.ca)  
-2012, [Grads 2012](https://2012.grads.algonquindesign.ca)  
+<div class="grad-site-list">
+2025, <a href="https://2025.grads.algonquindesign.ca">Kaleido</a><br>
+2024, <a href="https://2024.grads.algonquindesign.ca">Zenith</a><br>
+2023, <a href="https://2023.grads.algonquindesign.ca">Resolve</a><br>
+2022, Collation<br>
+2021, <a href="https://2021.grads.algonquindesign.ca">Generation Adaptation</a><br>
+2020, <a href="https://2020.grads.algonquindesign.ca">Anthology</a><br>
+2019, <a href="https://2019.grads.algonquindesign.ca">Pathfinder</a><br>
+2018, <a href="http://2018.grads.algonquindesign.ca">Reboot</a><br>
+2017, <a href="https://2017.grads.algonquindesign.ca">Studio N</a><br>
+2016, <a href="https://2016.grads.algonquindesign.ca">Framework</a><br>
+2015, <a href="https://2015.grads.algonquindesign.ca">Multiply</a><br>
+2014, <a href="https://2014.grads.algonquindesign.ca">Level 14</a><br>
+2013, <a href="https://2013.grads.algonquindesign.ca">Grad Show</a><br>
+2012, <a href="https://2012.grads.algonquindesign.ca">Grads 2012</a><br>
+</div>
  
 ### I Got Fieldwork!
 
-These are the students who have fieldwork and where they got it.
+These are the students who have fieldwork and where they're going.
 
 {% assign fieldwork_count = site.data.i-got-fieldwork | size %}
 
-<p>{{ fieldwork_count }} of {{ site.total_students }} students have fieldwork.</p>
+<p style="text-align: center;"><em>{{ fieldwork_count }}</em> of <em>{{ site.total_students }}</em> students have fieldwork.</p>
 
 <table>
   <thead>

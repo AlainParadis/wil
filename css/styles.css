@@ -119,6 +119,7 @@ a:hover
 }
 
 p { margin-bottom: 2.0rem; }
+.grad-site-list { column-count: 1; }
 
 .skip-link
 {
@@ -491,4 +492,11 @@ footer span { display: block; }
 	nav ul li a { font-size: 1.1rem; }
 	h1 { font-size: 2rem; }
 	aside h3 { margin-top: 2rem; }
+	
+	.grad-site-list
+	{
+		column-count: 2;
+		column-gap: 2rem;
+		column-width: 50%;
+	}
 }
