@@ -2,48 +2,22 @@
 layout: default
 title: Portfolio Development
 ---
-This unofficial summer assignment is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to professional designers and [recent grads](index.html#grads), you'll receive expert advice on your current work and guidance for your future career in graphic design.
+Your portfolio is a living document. This means that you develop it gradually and continually.
 
-### The Objective
+### Showing Work for the First Time
 
-Connect with professional designers to receive feedback on your current projects and advice on building a strong portfolio.
+It's natural that you may feel intimidated showing your work for the first time. That's why it's a good idea to do it as soon as possible. See [this page for more on this](portfolio-feedback.html). This means you should start some time in second year. By then you have pieces that reflect your skills, talent, and your potential.
 
-### The Process
+Don't put off showing your work out of nervousness. Dive in. After the first time, you'll come to find that it's easy and even enjoyable.
 
-#### Identify Designers
-Research and create a list of designers you admire, whose work aligns with your interests. If you can't find their e-mail address, connect with them on LinkedIn.
+Listen to everyone. Take notes. Make revisions. Devise your own path that best reflects you as a designer.
 
-#### Prepare Your Work
-Gather 3-5 of your best design projects from school assignments or personal work. Create a multi-page PDF file with each piece. If you have print pieces, also bring them printed. If you have motion, render it out to a video file. You can show web designs running locally in the browser. Avoid depending on wifi for your meeting.
+### Show it In Its Native Format
 
-These are sites you can use to post your work without having to build your own:
+Show each piece in its native form. If you have a motion piece, have it rendered to play locally and upload to YouTube or to Vimeo so they can see it when they wish. If you have a print piece, photograph it and print it. You get the idea. Web designs in the browser, locally and online.
 
--   [Behance.net](https://www.behance.net/)
--   [Adobe Portfolio](https://portfolio.adobe.com/)
--   [Dribbble](https://dribbble.com)
--   [SqareSpace](https://www.squarespace.com)
--   [Wix](https://www.wix.com)
+Never rely on the internet access. Have each piece on your computer and online.
 
-#### Craft Your Email
-Write a professional email to request a meeting. <a href="{{ site.url }}{{ site.baseurl }}/downloads/e-mail-template.txt.zip" title="Download sample text">This text file</a> is a starting point for your message to a pro you wish to meet. You should personalize it to make it sound more like you. You should also connect with each designer on [LinkedIn](https://www.linkedin.com/). When you do so, *always* include a message in the note area in the invitation. Once you're connected, it will give you an opportunity to stay in touch. Feel free to comment on their posts to keep the connection alive.
+### Keep It Updated
 
-#### Prepare for the Meeting
-If a designer agrees to meet, prepare questions about portfolio building, industry trends, and career advice.
-
-#### Take notes
-Note suggested changes to your work during the meeting. If you see multiple designers, you may find that you get contradicting advice. Take it all in. Craft the path that suits you best.
-
-#### Follow Up
-Send a thank-you email expressing your appreciation for their time and insights. If you make changes to your work, you should share with them to keep the conversation going.
-
-Other Summer Activities
-
-In addition to building your portfolio, you can seek out local events to attend to network with practicing designers. There's [Creative Mornings](https://creativemornings.com/cities/ott), [Ottawa Design Club](https://www.ottdesign.club), and [others](https://www.eventbrite.ca).
-
-### The Benefits
-
-By doing this, you'll gain professional feedback on your work and learn about industry expectations for portfolios. It will also build your professional network, which will support your preparation for fieldwork opportunities in level 6
-
-Remember, this is a self-directed assignment for your professional development. It's obviously not graded, but the benefits to your career can be significant. [I will be available](mailto:paradia@algonquincollege.com) throughout the summer if you need advice or support. By taking on this initiative, you're demonstrating professionalism and dedication to your craft — qualities that will serve you well in your design career.
-
----  @[Alain Paradis](mailto:paradia@algonquincollege.com)
+As stated at the top of this page, your portfolio is a living document. When you complete your next killer project, be sure to include it in your portfolio. Eventually, you'll have enough pieces that you'll be able to include certain ones to tailor it to a specific employer.
