@@ -61,16 +61,16 @@ This is a brief, simple *Terms & Conditions* text you can add to the end of your
 <div class="copy-container">
   <code id="text-to-copy">
 <p>
-Payment Terms: Prices are subject to change if the scope of work changes. This pricing is valid for 30 days from issuance. Author’s alterations will be charged at an hourly rate of [$XX] for work in addition to the original scope of work.
+Payment Terms: Prices are subject to change if the scope of work changes. This pricing is valid for 30 days from issuance. Author’s alterations will be charged at an hourly rate of $XX for work in addition to the original scope of work.
 </p>
 <p>
 If significant additions are made to the scope of work, a quote will be provided for that work as a separate contract.
 </p>
 <p>
-Upon approval of this proposal, a deposit of [XX%] will be required. Invoices are payable upon receipt. Past due accounts are subject to a late payment charge of 4% per month. [Designer] reserves the right to withhold shipments to customers that do not meet these terms.
+Upon approval of this proposal, a deposit of XX% will be required. Invoices are payable upon receipt. Past due accounts are subject to a late payment charge of 4% per month. [Designer] reserves the right to withhold shipments to customers that do not meet these terms.
 </p>
 <p>
-Please make cheque payable to: [Designer]. Send e-transfers to [Designer]@[Designer].com. Use the invoice number as the security answer. For payment inquiries, please call [613-xxx-xxxx]
+Please make cheque payable to: [Designer]. Send e-transfers to [Designer]@[Designer].com. Use the invoice number as the security answer. For payment inquiries, please call 613-XXX-XXXX
 </p>
 <p>
 Copyright: Design documents including, but not limited to, sketches, designs, illustrations, photography, and all other design documents are the exclusive property of [Designer]. Exclusive copyright of these materials is reserved by the Designer. [Designer] reserves the right of first refusal to make changes, or produce additional instances of these designs.
