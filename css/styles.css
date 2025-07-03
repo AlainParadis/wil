@@ -21,7 +21,7 @@
 
 html
 {
-	font-family: "IBM Plex Mono", sans-serif;
+	font-family: "IBM Plex Serif", serif;
 	font-style: normal;
 	font-size: 16px;
 	font-weight: 400;
@@ -35,6 +35,11 @@ body
 	margin: 0 auto 0 auto;
 	padding: 0;
 	overflow-x: hidden;
+    hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
+    hyphenate-limit-lines: 2;   
+    hyphenate-limit-last: always;
+    hyphenate-limit-zone: 8%;
 }
 
 #container
@@ -65,6 +70,8 @@ nav
 
 aside
 {
+	font-family: "IBM Plex Sans", sans-serif;
+	font-style: normal;
 	grid-area: aside;
 	margin: 0 0 0 1rem;
 }
@@ -115,6 +122,20 @@ nav ul li a
 	text-transform: uppercase;
 }
 
+.sans
+{
+	font-family: "IBM Plex Sans", sans-serif;
+	font-style: normal;
+}
+
+.mono
+{
+	font-family: "IBM Plex Mono", sans-serif;
+	font-style: normal;
+}
+
+.center { text-align: center; }
+
 a, a:link
 {
 	color: var(--text-color);
@@ -139,7 +160,13 @@ a:hover
 }
 
 p { margin-bottom: 2.0rem; }
-.grad-site-list { column-count: 1; }
+
+.grad-site-list
+{
+	column-count: 1;
+	font-family: "IBM Plex Mono", sans-serif;
+	font-style: normal;
+}
 
 .skip-link
 {
@@ -235,9 +262,15 @@ footer div
 
 footer div:nth-child(n+1) { margin-top: 1rem; }
 
-h1, h2
+h1, h2, h3, h4, h5, h6
 {
-	font-weight: 600;
+	font-family: "IBM Plex Sans", sans-serif;
+	font-style: normal;
+}
+
+h1
+{
+	font-weight: 700;
 	font-size: 1.5rem;
 	font-style: normal;
 	color: var(--text-color);
@@ -247,7 +280,7 @@ h1, h2
 	border-bottom: 0;
 }
 
-h3, h4, h5, h6
+h2, h3, h4, h5, h6
 {
 	font-weight: 600;
 	font-style: normal;
@@ -289,6 +322,8 @@ hr
 
 ul
 {
+	column-count: 1;
+	font-family: "IBM Plex Sans", sans-serif;
 	list-style: none;
 	margin: 0;
 	margin-left: 1rem;
@@ -298,12 +333,14 @@ ul
 ul li
 {
 	position: relative;
-	padding-left: 1rem;
+	padding-left: 1.5rem;
+	padding-top: 4px;
 }
 
 ul li::before
 {
-	content: "➔";
+	content: "➜";
+	font-size: 0.9rem;
 	position: absolute;
 	left: 0;
 	color: var(--light);
@@ -414,11 +451,13 @@ dd { margin: 0 2rem 1rem 2rem; }
 .small-caps
 {
 	font-variant: small-caps;
-	font-weight: 600;
+	font-weight: 500;
 }
 
 table
 {
+	font-family: "IBM Plex mono", sans-serif;
+	font-style: normal;
 	width: 100%;
 	table-layout: auto;
 	/* Columns adjust to content */
@@ -453,7 +492,7 @@ td
 
 em
 {
-	font-weight: 400;
+	font-weight: 600;
 	font-style: italic;
 	color: var(--blue-light);
 }
@@ -497,10 +536,17 @@ footer span { display: block; }
 	header { grid-area: header; }
 	main { grid-area: main; }
 	aside { grid-area: aside; }
-	footer { grid-area: footer; }
+	
+	footer
+	{
+		grid-area: footer;
+		font-family: "IBM Plex Sans", sans-serif;
+	}
 	
 	nav
 	{
+		font-family: "IBM Plex mono", sans-serif;
+		font-style: normal;
 		grid-area: nav;
 		font-size: 1.1rem;
 		background-color: var(--dark);
