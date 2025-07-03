@@ -22,15 +22,15 @@ It's actually quite the opposite. You should use language such as:
 - *I'm really proud of* the type treatment in this piece because...
 - *This piece is particularly strong* due to its unique use of colour.
 
-### Show it In Its Native Format
+### Use Its Native Format
 
-Show each piece in its native form. If you have a motion piece, have it rendered to play locally and upload to YouTube or to Vimeo so they can see it when they wish. If you have a print piece, photograph it and print it. You get the idea. Web designs in the browser, locally and online.
+Show each piece in its native form. If you have a motion piece, have it rendered to play locally and upload to YouTube or to Vimeo so they can see it when they wish. If you have a print piece, photograph it and print it. Assemble to exacting standards, as if it came off the press. You get the idea. Show web designs in the browser, locally and online.
 
 Never rely on the internet access. Have each piece on your computer and online.
 
 ### Keep It Updated
 
-As stated at the top of this page, your portfolio is a living document. When you complete your next killer project, be sure to include it in your portfolio. Eventually, you'll have enough pieces that you'll be able to include certain ones to tailor it to a specific employer.
+As stated at the top of this page, your portfolio is a living document. When you complete your next killer project, be sure to include it in your portfolio. Eventually, you'll have enough pieces that you'll be able to include certain ones to tailor your portfolio to a specific employer.
 
 ### How Many Pieces?
 

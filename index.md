@@ -36,7 +36,7 @@ These are the students who have fieldwork and where they're going.
 
 {% assign fieldwork_count = site.data.i-got-fieldwork | size %}
 
-<p style="text-align: center;"><em>{{ fieldwork_count }}</em> of <em>{{ site.total_students }}</em> students have fieldwork.</p>
+<p class="mono center"><em>{{ fieldwork_count }}</em> of <em>{{ site.total_students }}</em> students have fieldwork.</p>
 
 <table>
   <thead>
