@@ -23,7 +23,7 @@ html
 {
 	font-family: "IBM Plex Serif", serif;
 	font-style: normal;
-	font-size: 16px;
+	font-size: clamp(15px, 1.5vw, 18px);
 	font-weight: 400;
 	line-height: 1.6;
 	color: var(--text-color);
@@ -117,7 +117,7 @@ nav ul li::before
 nav ul li a
 {
 	color: #FF2F92;
-	font-size: 1.5rem;
+	font-size: clamp(1.5rem, 2vw, 2rem);
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -160,6 +160,9 @@ a:hover
 }
 
 p { margin-bottom: 2.0rem; }
+p {
+  font-size: clamp(1rem, 1.2vw, 1.125rem);
+}
 
 .grad-site-list
 {
@@ -271,7 +274,7 @@ h1, h2, h3, h4, h5, h6
 h1
 {
 	font-weight: 700;
-	font-size: 1.5rem;
+	font-size: clamp(1.5rem, 2vw, 2rem);
 	font-style: normal;
 	color: var(--text-color);
 	margin-top: 1rem;
@@ -548,7 +551,7 @@ footer span { display: block; }
 		font-family: "IBM Plex mono", sans-serif;
 		font-style: normal;
 		grid-area: nav;
-		font-size: 1.1rem;
+		font-size: clamp(1.1rem, 2vw, 1.5rem);
 		background-color: var(--dark);
 		width: 100vw;
 		position: relative;
