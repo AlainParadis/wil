@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Course Description
 ---
 
 {{ site.data.course-info.course-description }}
