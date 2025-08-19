@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Description
+title: Fieldwork & Professional Practice
 ---
 
 {{ site.data.course-info.course-description }}
