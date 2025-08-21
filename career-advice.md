@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Advice
+title: Career Advice
 ---
 Seeing your transition to industry on the horizon may cause anxiety about the future. That’s normal. Here’s the thing: the best antidote to anxiety is action. Feeling sick? Go see the campus clinic. Struggling in a course? Talk to your instructor. Wondering how to deal with stress, money, or anything else? My office door is always open. I can point you toward the supports you need. We’re fortunate to live in a country and study at a college that provides so many resources. Use them.
 
