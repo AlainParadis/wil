@@ -35,11 +35,11 @@ body
 	margin: 0 auto 0 auto;
 	padding: 0;
 	overflow-x: hidden;
-    hyphens: auto;
-    hyphenate-limit-chars: 6 3 3;
-    hyphenate-limit-lines: 2;   
-    hyphenate-limit-last: always;
-    hyphenate-limit-zone: 8%;
+	hyphens: auto;
+	hyphenate-limit-chars: 6 3 3;
+	hyphenate-limit-lines: 2;
+	hyphenate-limit-last: always;
+	hyphenate-limit-zone: 8%;
 }
 
 #container
@@ -160,9 +160,7 @@ a:hover
 }
 
 p { margin-bottom: 2.0rem; }
-p {
-  font-size: clamp(1rem, 1.2vw, 1.125rem);
-}
+p { font-size: clamp(1rem, 1.2vw, 1.125rem); }
 
 .grad-site-list
 {
@@ -210,6 +208,26 @@ figcaption
 	font-weight: 500;
 	color: var(--light);
 }
+
+.btn
+{
+	background-color: var(--orange);
+	color: var(--medium);
+	font-size: 1.25rem;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 0.75rem 2rem;
+    margin: 2rem auto;
+    text-align: center;
+	border: 0;
+	border-radius: 9999px;
+	background-clip: padding-box;
+	display: block;
+	width: max-content;
+	transition: background-color 0.3s ease;
+}
+
+.btn:hover { background-color: var(--orange50); }
 
 blockquote
 {
