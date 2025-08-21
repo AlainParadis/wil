@@ -7,7 +7,7 @@ title: Fieldwork & Professional Practice
 
 ### [Portfolio Development](portfolio-development.html)
 
-This unofficial summer activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](portfolio-development.html)
+This unofficial activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](portfolio-development.html)
 
 ### <a name="grads">Grad Web Sites</a>
 
@@ -56,4 +56,3 @@ These are the students who have fieldwork and where they're going.
     {% endfor %}
   </tbody>
 </table>
-
