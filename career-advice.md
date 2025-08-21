@@ -16,6 +16,6 @@ You are, in many ways, the average of your five closest friends, so make sure th
 
 Here’s a goal worth chasing: become so good that people will speak your name in rooms you’re not in, and put opportunities in front of you even when you’re not there. That doesn’t happen overnight, but every bit of practice, every connection, every small effort adds up.
 
-Finally, remember that the job hunt is a lot like dating. Sometimes you’ll feel like you’re just swiping endlessly. An average designer might need to apply 50 times to land one interview. Out of those, four out of five companies might ghost you. Which means you may need to apply to 250 jobs just to land one real opportunity. That’s not failure. That’s just the math. So build resilience. Keep swiping. Keep applying. Keep moving forward.
+Finally, remember that the job hunt can be arduous. Sometimes you’ll feel like you’re just searching endlessly. An average designer might need to apply 50 times to land one interview. Of those, four out of five companies might ghost you. Which means you may need to apply to 250 jobs just to land one real opportunity. That’s not failure. That’s just the math. So build resilience. Keep swiping. Keep applying. Keep moving forward.
 
 Get out there. Make friends. Make mistakes. Embarrass yourself. Learn from it all. That’s how you grow, not just as a designer, but as a person.
