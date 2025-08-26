@@ -1,5 +1,4 @@
 Employer,URL,Contact,E-mail,Location,Modality
-Correctional Services Canada,https://www.canada.ca/en/correctional-service.html,Jennifer Austin,jennifer.austin@csc-scc.gc.ca,Ottawa,In-Person
 Acart,https://acart.com,Tri Nguyen,N/A,Ottawa,In-Person
 Accurate Creative,https://accurate.ca,Eric Lapointe,eric@accurate.ca,Ottawa,In-Person
 Agence Christelle,https://agencechristelle.com,Stefan Kemilev,creative@agencechristelle.com,Gatineau,Remote
@@ -21,6 +20,7 @@ Character Creative,https://charactercreative.com,Jamie McLennan,jamie@characterc
 Cinnamon Toast,https://cinnamontoast.ca,Beverly Hall,bev@cinnamontoast.ca,Ottawa,Hybrid
 Cloud in the Sky,https://cloudintheskystudios.com,Skyler Michaels,skyler@cloudintheskystudios.com,Ottawa,In-Person
 Colour by Design,https://colourbydesign.com,Vicky Assad,info@colourbydesign.com,Ottawa,In-Person
+Correctional Services Canada,https://www.canada.ca/en/correctional-service.html,Jennifer Austin,jennifer.austin@csc-scc.gc.ca,Ottawa,In-Person
 Coyle Media Group,https://coylemediagroup.com,Jon Hudon,jon@coylemediagroup.com,Stittsville,In-Person
 Cyan Solutions,https://cyansolutions.com,Melanie Burgess,melanie@cyansolutions.com,Ottawa,In-Person
 Danger Co,https://www.dangercreative.com,Jordan Danger,jordan@dangercreative.com,Ottawa,In-Person
@@ -45,8 +45,10 @@ Ottawa Sports and Entertainment Group,https://oseg.ca,Annika Cayanga,zdavis@oseg
 Percolator Designs,https://percolatordesigns.ca,Emily Prochnau,emily@percolatordesigns.ca,Ottawa,Remote
 Phantom Productions,https://phantomproductions.com,Chris Roussakis,chris@phantomproductions.com,Ottawa,In-Person
 Printing House (The),https://www.tph.ca,Charles Downey,cdowney@tph.ca,Ottawa,In-Person
+Privy Council (The),https://pco-bcp.gc.ca,Awnah Goulard-Jong,awnah.goulardjong@pco-bcp.gc.ca,Ottawa,In-Person
 Public Service Alliance of Canada,https://psac-afpc.com,Michele Girash,GirashM@psac-afpc.com,Ottawa,Hybrid
 RaisedByWolves,https://raisedbywolves.ca,Calum Green,cal@raisedbywolves.ca,Ottawa,Hybrid
+Ross Video,https://rossvideo.com,See Alain,paradia@algonquincollege.com,Ottawa,Remote
 Royal Ottawa Mental Health Centre,https://theroyal.ca,Carol Macleod,carol.macleod@theroyal.ca,Ottawa,In-Person
 SEO+,https://seoplus.com,Brandon Telford,brandon@seoplus.ca,Ottawa,In-Person
 Sequence Marketing,https://sequencemarketing.ca,Véronique Soucy,vero@sequencemarketing.ca,Ottawa,Hybrid
@@ -55,7 +57,6 @@ Skyfall Blue,https://skyfallblue.com,Fadi Ghaby,fadi@skyfallblue.com,Ottawa,Remo
 Social Innovation Lab,https://algonquincollege.com,Kevin Holmes,holmesk@algonquincollege.com,Ottawa,In-Person
 Spark Advocacy,https://sparkadvocacy.ca,Adrian Jean,adrian@sparkadvocacy.ca,Ottawa,In-Person
 Supreme Court of Canada,https://scc-csc.ca,Jonathan Trottier,Jonathan.Trottier@scc-csc.ca,Ottawa,In-Person
-Privy Council (The),https://pco-bcp.gc.ca,Awnah Goulard-Jong,awnah.goulardjong@pco-bcp.gc.ca,Ottawa,In-Person
 TryCycle,https://trycycle.ca,Jacob Cogan,jacob@trycycle.ca,Ottawa,In-Person
 uOttawa,https://uottawa.ca,Melany Pelletier,mpelle25@uottawa.ca,Ottawa,Hybrid
 Victory Arts,https://victoryarts.com,Tero Hollo,terohollo@gmail.com,Ottawa,Remote
