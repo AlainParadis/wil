@@ -420,11 +420,8 @@ ul.legend li img
 ul.employers li span img, ul.legend li span img
 {
 	display: inline;
-	/* Ensure SVG icons stay inline with text */
 	vertical-align: middle;
-	/* Align icons with text */
 	margin-left: 0.25rem;
-	/* Add spacing between text and icon */
 	list-style: none;
 }
 
@@ -437,6 +434,13 @@ ul.employers
 
 ul.employers li::before { content: none; }
 ul.employers li { padding: 0.25rem 0 0.5rem 0; }
+a.crossed-out {
+  text-decoration: line-through;
+  text-decoration-color: var(--blue-light);
+  color: var(--light);
+  border-bottom: 0;
+}
+
 
 code
 {
