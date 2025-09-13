@@ -27,7 +27,7 @@ These are the reviewers who are expected to attend.
 
 <h2>Question Bank</h2>
 
-Choose from these questions. They may be useful during your portfolio review.
+Feel free to choose from these questions. They may be useful during your portfolio review.
 
 <h3>About Professional Standards</h3>
 <ul>
