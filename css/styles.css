@@ -260,6 +260,7 @@ a.btn-small
 	color: var(--dark);
 	border: 4px solid var(--dark);
 }
+
 blockquote
 {
 	margin-left: 1rem;
@@ -406,7 +407,11 @@ ol
 	margin: 0 0 1rem 3rem;
 }
 
-ol li { font-family: var(--sans); line-height: 2.0rem; }
+ol li
+{
+	font-family: var(--sans);
+	line-height: 2.0rem;
+}
 
 ul.legend
 {
@@ -463,6 +468,8 @@ a.crossed-out
 	color: var(--light);
 	border-bottom: 0;
 }
+
+.smallcaps { font-variant-caps: all-small-caps; }
 
 code
 {
