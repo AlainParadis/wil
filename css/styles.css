@@ -110,11 +110,7 @@ nav ul li
 	margin-top: 0.5rem;
 }
 
-nav ul li::before
-{
-	content: none;
-	/* disables the pseudo-element bullet */
-}
+nav ul li::before { content: none; }
 
 nav ul li a
 {
@@ -427,19 +423,11 @@ ul.legend li::before { content: none; }
 ul.legend li
 {
 	display: flex;
-	/* Align items horizontally */
 	align-items: center;
-	/* Vertically align text with icons */
 	margin-bottom: 1rem;
-	/* Add spacing between legend items */
 }
 
-ul.legend li img
-{
-	margin-right: 10px;
-	/* Add spacing between icon and text */
-}
-
+ul.legend li img { margin-right: 10px; }
 .legend span { border-bottom: 1px solid var(--orange); }
 .legend li:hover { cursor: pointer; }
 
@@ -459,7 +447,19 @@ ul.employers
 }
 
 ul.employers li::before { content: none; }
-ul.employers li { padding: 0.25rem 0 0.5rem 0; }
+
+ul.employers li
+{
+	padding: 0.25rem 0 0.5rem 0;
+	margin-bottom: 0.5rem;
+	max-width: 60ch;
+}
+
+ul.employers .notes
+{
+	display: block;
+	font-size: .9rem;
+}
 
 a.crossed-out
 {

@@ -30,7 +30,7 @@ This is a list of {{ site.data.employers.size }} employers who've taken students
   {% for row in site.data.employers %}
   <li>
     <strong>
-      <a href="{{ row.URL }}" target="_blank" class="{% if row.Hired %}crossed-out{% endif %}">{{ row.Employer }}</a>
+      <a href="{{ row.URL }}" target="_blank" class="{% if row.Hired == 'yes' %}crossed-out{% endif %}">{{ row.Employer }}</a>
     </strong>, 
     <span><a href="mailto:{{ row['E-mail'] }}">{{ row.Contact }}</a></span>, 
     <span>{{ row.Location }}</span>, 
@@ -45,6 +45,9 @@ This is a list of {{ site.data.employers.size }} employers who've taken students
         {{ row.Modality }}
       {% endif %}
     </span>
+    {% if row.Notes %}
+    <span class="notes">Notes: {{ row.Notes }}</span>
+    {% endif %}
   </li>
   {% endfor %}
 </ul>
