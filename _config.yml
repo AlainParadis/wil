@@ -2,8 +2,8 @@ port: 4002
 description: "This is the Fieldwork & Professional Practice web site."
 # The base URL of your site when hosted
 # The subdirectory for your repository (leave empty for root-level sites)
-url: "https://alainparadis.github.io"
-baseurl: "/wil"
+url: "https://alainparadis.github.io/wil"
+baseurl: ""
 theme: null
 title: "Professional Practice"
 exclude:
