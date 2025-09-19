@@ -5,7 +5,7 @@ title: Portfolio Building Session
 
 <span class="sans"><strong>September 27, 2025, 9<span class="smallcaps">AM</span>-noon</strong></span> — We'll be holding a portfolio building session at the AC Hub. This event will be tailored for third-year students seeking to improve their portfolios and find a fieldwork employer. The location is directly above Starbucks in the Student Commons (E) building [<a href="https://www.algonquincollege.com/maps/files/2024/10/Algonquin-College-Ottawa-Campus-Maps-Level-1.pdf" target="_blank" rel="noopener noreferrer">Campus Map</a> PDF]. Parking rates are listed on <a href="https://www.algonquincollege.com/parking/parking-services/rates/" target="_blank" rel="noopener noreferrer">the college's parking rates page</a>.
 
-<em>Please do your best to attend.</em>
+<a href="handling-anxiety.html" class="btn-small">Handling Anxiety ➜</a>
 
 Most of all, do not stay home because you believe your work is not ready or not good enough. You do not need a completely assembled, polished portfolio to attend this event. Bring what you have.
 
