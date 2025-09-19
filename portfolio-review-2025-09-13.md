@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Portfolio Reviews
+title: Portfolio Building Session
 ---
 
-<span class="sans"><strong>September 27, 2025, 9<span class="smallcaps">AM</span>-noon</strong></span> — We'll be holding a portfolio review at the AC Hub. This event will be tailored for third-year students seeking to improve their portfolios and find a fieldwork employer. The location is directly above Starbucks in the Student Commons (E) building [<a href="https://www.algonquincollege.com/maps/files/2024/10/Algonquin-College-Ottawa-Campus-Maps-Level-1.pdf" target="_blank" rel="noopener noreferrer">Campus Map</a> PDF]. Parking rates are listed on <a href="https://www.algonquincollege.com/parking/parking-services/rates/" target="_blank" rel="noopener noreferrer">the college's parking rates page</a>.
+<span class="sans"><strong>September 27, 2025, 9<span class="smallcaps">AM</span>-noon</strong></span> — We'll be holding a portfolio building session at the AC Hub. This event will be tailored for third-year students seeking to improve their portfolios and find a fieldwork employer. The location is directly above Starbucks in the Student Commons (E) building [<a href="https://www.algonquincollege.com/maps/files/2024/10/Algonquin-College-Ottawa-Campus-Maps-Level-1.pdf" target="_blank" rel="noopener noreferrer">Campus Map</a> PDF]. Parking rates are listed on <a href="https://www.algonquincollege.com/parking/parking-services/rates/" target="_blank" rel="noopener noreferrer">the college's parking rates page</a>.
 
 <em>Please do your best to attend.</em>
 
@@ -27,7 +27,7 @@ These are the reviewers who are expected to attend.
 
 <h2>Question Bank</h2>
 
-Feel free to choose from these questions. They may be useful during your portfolio review.
+Feel free to choose from these questions. They may be useful during your talks with reviewers.
 
 <h3>About Professional Standards</h3>
 <ul>
