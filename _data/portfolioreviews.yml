@@ -3,7 +3,7 @@
     - last_name: Almeida
       first_name: Aires
       studio: Operative
-      url: "https://operativ.studio"
+      url: "https://www.makeitoperativ.com"
     - last_name: Guerrero
       first_name: Susana
       studio: Canada Post
@@ -12,6 +12,10 @@
       first_name: Katrin
       studio: Banfield Agency
       url: "https://banfield.agency"
+    - last_name: Muxlow
+      first_name: Christina
+      studio: Operativ
+      url: "https://www.makeitoperativ.com"
     - last_name: Grice
       first_name: Evan
       studio: Alphabet Creative
