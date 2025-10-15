@@ -14,7 +14,7 @@ As you accomplish concrete tasks to organize the Grad Show and do fundraising, y
 
 ### Fundraising
 
-Fundraising events are held to support the Grad Show, including bake sales, art sales, and pub nights. All students are expected to participate in fundraising activities. A GoFundMe page has been a great source of revenue. The Student Association also [contributes](https://www.algonquinsa.com/services/funding/graduation-funding/) a per-graduate amount. It'll be up to you to enquire what funds are available.
+Fundraising events are held to support the Grad Show, including bake sales, art sales, and pub nights. All students are expected to participate in fundraising activities. A GoFundMe page has been a great source of revenue.
 
 While the Fundraising Team coordinates activities, they are supported by all students in the cohort. For example, the team will coordinate a bake sale, while some students bake goods, and others sell them.
 
