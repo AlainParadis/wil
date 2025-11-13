@@ -46,7 +46,7 @@ This is a list of {{ site.data.employers.size }} employers who've taken students
       {% endif %}
     </span>
     {% if row.Notes %}
-    <span class="notes">Notes: {{ row.Notes }}</span>
+    <span class="notes">Notes: {{ row.Notes | safe }}</span>
     {% endif %}
   </li>
   {% endfor %}
