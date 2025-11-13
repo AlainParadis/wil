@@ -6,7 +6,7 @@ Your portfolio is a living document. This means that you develop it gradually an
 
 ### Showing Work for the First Time
 
-It's natural that you may feel intimidated showing your work for the first time. That's why it's a good idea to do it as soon as possible. See [this page for more on this](portfolio-feedback.html). This means you should start some time in second year. By then you have pieces that reflect your skills, talent, and your potential.
+It's natural that you may feel intimidated showing your work for the first time. That's why it's a good idea to do it as soon as possible. See [this page for more on this](/portfolio-feedback/). This means you should start some time in second year. By then you have pieces that reflect your skills, talent, and your potential.
 
 Don't put off showing your work out of nervousness. Dive in. After the first time, you'll come to find that it's easy, constructive, and even enjoyable.
 

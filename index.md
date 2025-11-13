@@ -5,13 +5,13 @@ title: Fieldwork & Professional Practice
 
 {{ site.data.course-info.course-description }}
 
-<a href="portfolio-review-2025-09-13.html" class="btn-small">Fall 2025 Portfolio Review ➜</a>
+<a href="/portfolio-review-2025-09-13/" class="btn-small">Fall 2025 Portfolio Review ➜</a>
 
-### [Portfolio Development](portfolio-development.html)
+### [Portfolio Development](/portfolio-development/)
 
 This unofficial activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](/employers/), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](/portfolio-development/)
 
-<a href="career-advice.html" class="btn">Career Advice</a>
+<a href="/career-advice/" class="btn">Career Advice</a>
 
 ### <a name="grads">Grad Web Sites</a>
 

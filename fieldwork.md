@@ -31,7 +31,7 @@ It's up to you to develop your portfolio to apply for Fieldwork, though you will
 - A résumé is important, but secondary to the portfolio.
 - You can modify school work to suit your portfolio.
 
-It's a good idea to show your portfolio to professional designers as you work on it. There some [guidance on that here](portfolio-development.html).
+It's a good idea to show your portfolio to professional designers as you work on it. There some [guidance on that here](/portfolio-development/).
 
 ### Fieldwork Journal
 
