@@ -6,6 +6,7 @@ url: "https://alainparadis.github.io/wil"
 baseurl: ""
 theme: null
 title: "Professional Practice"
+permalink: /:title/
 exclude:
   - vendor
   - tmp
