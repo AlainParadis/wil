@@ -9,7 +9,7 @@ title: Fieldwork & Professional Practice
 
 ### [Portfolio Development](portfolio-development.html)
 
-This unofficial activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](employers.html), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](portfolio-development.html)
+This unofficial activity is designed to help you kickstart your professional network to gain valuable insights for building your portfolio. By reaching out to [professional designers](/employers/), you'll receive expert advice on your current work and guidance for your future career in graphic design. [Read more…](/portfolio-development/)
 
 <a href="career-advice.html" class="btn">Career Advice</a>
 
