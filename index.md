@@ -5,7 +5,7 @@ title: Fieldwork & Professional Practice
 
 {{ site.data.course-info.course-description }}
 
-<a href="/portfolio-review-2025-09-13/" class="btn-small">Fall 2025 Portfolio Review ➜</a>
+<!-- <a href="/portfolio-review-2025-09-13/" class="btn-small">Fall 2025 Portfolio Review ➜</a> -->
 
 ### [Portfolio Development](/portfolio-development/)
 
