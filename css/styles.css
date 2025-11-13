@@ -499,7 +499,13 @@ code
 }
 
 .alertBox h3 { margin-top: .5rem; }
-aside a { font-weight: 500; }
+
+aside a
+{
+	font-weight: 500;
+    line-height: 2;
+}
+
 .text-center, a.text-center { text-align: center; }
 
 dt
