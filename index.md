@@ -33,7 +33,7 @@ We have grad web sites for each year. You can find them here:
 2013, <a href="https://2013.grads.algonquindesign.ca">Grad Show</a><br>
 2012, <a href="https://2012.grads.algonquindesign.ca">Grads 2012</a><br>
 </div>
- 
+
 ### I Got Fieldwork!
 
 These are the students who have fieldwork and where they're going.
