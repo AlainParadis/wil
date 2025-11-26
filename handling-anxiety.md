@@ -4,6 +4,8 @@ title: Handling Anxiety
 ---
 Meeting new people and sharing your work can feel intimidating, but there are practical strategies to make the experience easier and more rewarding.
 
+>   The best response to anxiety is action.
+
 ### **1. Preparation Before the Review**
 
 * **Script Key Points**
